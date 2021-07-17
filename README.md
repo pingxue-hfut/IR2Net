@@ -37,6 +37,7 @@ networks,” in Proc. IEEE Conference on Computer Vision and Pattern Recognition
 [2] Z. Liu, Z. Shen, M. Savvides, and K. Cheng, “Reactnet: Towards precise binary neural network with generalized activation functions,” in Proc.
 European Conference on Computer Vision, 2020, pp. 143–159.
 
+[3] K. Han, Y. Wang, Q. Tian, J. Guo, C. Xu, and C. Xu, “Ghostnet: More features from cheap operations,” in Proc. IEEE Conference on Computer Vision and Pattern Recognition, 2020, pp. 1577–1586.
 
 
 
