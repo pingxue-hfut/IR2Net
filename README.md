@@ -8,7 +8,7 @@ Trained Models are available, the link in the file "Trained Models".
 - Python 3.7
 - Pytorch == 1.3.0
 
-For the GPUs, we use a single NVIDIA RTX 2070 when training SD-BNN on the CIFAR-10 dataset and 2 NVIDIA RTX Titan when training IR^2Net on the ImageNet dataset.
+For the GPUs, we use a single NVIDIA RTX 2070 when training IR^2Net on the CIFAR-10 dataset and 2 NVIDIA RTX Titan when training on the ImageNet dataset.
 
 **Accuracy** 
 
