@@ -8,8 +8,6 @@ Trained Models of IR2Net-A/B/C are available, the link in the file "Trained Mode
 - Python 3.7
 - Pytorch == 1.3.0
 
-For the GPUs, we use a single NVIDIA RTX 2070 when training IR^2Net on the CIFAR-10 dataset and 2 NVIDIA RTX Titan when training on the ImageNet dataset.
-
 **Accuracy** 
 
 CIFAR-10:
