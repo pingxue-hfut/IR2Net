@@ -1,7 +1,7 @@
 # IR2Net
 
 This project is the PyTorch implementation of our paper : IR^2Net: Information Restriction and Information Recovery for Accurate Binary Neural Networks. 
-Trained Models are available, the link in the file "Trained Models".
+Trained Models of IR2Net-A/B/C are available, the link in the file "Trained Models".
 
 **Dependencies**
 
