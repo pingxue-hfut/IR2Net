@@ -37,5 +37,16 @@ European Conference on Computer Vision, 2020, pp. 143–159.
 
 [3] K. Han, Y. Wang, Q. Tian, J. Guo, C. Xu, and C. Xu, “Ghostnet: More features from cheap operations,” in Proc. IEEE Conference on Computer Vision and Pattern Recognition, 2020, pp. 1577–1586.
 
+## Citation
 
+If you find our code useful for your research, please consider citing:
+
+    @article{xue2023IR^2Net,
+      title={IR^2Net: information restriction and information recovery for accurate binary neural networks},
+      DOI={10.1007/s00521-023-08495-z},
+      author={Xue, Ping and Lu, Yang and Chang, Jingfei and Wei, Xing and Wei, Zhen},
+      journal={Neural Computing and Applications},
+      year={2023},
+      month={Mar}
+    }
 
